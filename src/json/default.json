@@ -1,0 +1,46 @@
+{
+  "ROOT":{
+     "type":{
+        "resolvedName":"Container"
+     },
+     "isCanvas":true,
+     "props":{
+        "background":"#eeeeee",
+        "padding":5,
+        "data-cy":"root-container"
+     },
+     "displayName":"Container",
+     "custom":{
+        
+     },
+     "hidden":false,
+     "nodes":[
+        "-H15GaEOJf"
+     ],
+     "linkedNodes":{
+        
+     }
+  },
+  "-H15GaEOJf":{
+     "type":{
+        "resolvedName":"Text"
+     },
+     "isCanvas":false,
+     "props":{
+        "text":"Teste Marcelo",
+        "fontSize":20
+     },
+     "displayName":"Text",
+     "custom":{
+        
+     },
+     "parent":"ROOT",
+     "hidden":false,
+     "nodes":[
+        
+     ],
+     "linkedNodes":{
+        
+     }
+  }
+}
